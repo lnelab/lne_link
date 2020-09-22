@@ -3,6 +3,7 @@ LNE Hub Presented by LN Engineering Lab
 
 ## Overview
 
+![LNE Hub](assets/images/settings.png "LNE Hub")
 The aim of this project is to help us work with LNE keyboard better.
 
 ### Supported Devices
