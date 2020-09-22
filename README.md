@@ -23,7 +23,7 @@ LNE Hub currently support the following features:
 * Backlight Control
 * RGB Light Control
 * Macro (Planned)
-LNE Team
+* Cloud Sync (Planned)
 
 ### Feedback
 * [Create an issue](https://github.com/ln-org/lne_hub/issues) on GitHub
