@@ -4,6 +4,7 @@ LNE Hub Presented by LN Engineering Lab
 ## Overview
 
 ![LNE Hub](assets/images/settings.png "LNE Hub")
+![Keymap](assets/images/keymap.png "Keymap")
 The aim of this project is to help us work with LNE keyboard better.
 
 ### Supported Devices
