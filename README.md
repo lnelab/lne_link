@@ -26,6 +26,10 @@ LNE Hub currently support the following features:
 * Macro (Planned)
 * Cloud Sync (Planned)
 
+### Releases
+* [Releases on GitHub](https://github.com/ln-org/lne_hub/releases)
+* [Releases on Gitee](https://gitee.com/lne-lab/lne_hub/releases)
+
 ### Feedback
 * [Create an issue](https://github.com/ln-org/lne_hub/issues) on GitHub
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
