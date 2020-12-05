@@ -10,7 +10,7 @@ The aim of this project is to help us work with LNE keyboard better.
 ### Supported Devices
 
 * VISTA65 Dual-Mode
-* atomZ
+* MeowTool
 
 ### Getting Started
 
@@ -28,6 +28,7 @@ LNE Hub currently support the following features:
 
 ### Feedback
 * [Create an issue](https://github.com/ln-org/lne_hub/issues) on GitHub
+* [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
 * QQ Team 1107582873
 
 ## License
