@@ -9,9 +9,12 @@ LNE Hub Presented by LN Engineering Lab
 The aim of this project is to help us work with LNE keyboard better.
 
 ### Supported Devices
-
+#### Keyboards
 * VISTA65 Dual-Mode
 * MeowTool
+
+#### Accessories
+* OLED
 
 ### Getting Started
 
