@@ -6,7 +6,9 @@ LNE Hub Presented by LN Engineering Lab
 ![LNE Hub](assets/images/home_en.png "LNE Hub")
 ![Keymap](assets/images/keymap_en.png "Keymap")
 ![Lighting](assets/images/lighting_en.png "Lighting")
+
 The aim of this project is to help us work with LNE keyboard better.
+LNE hub provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
 
 ### Supported Devices
 #### Keyboards
