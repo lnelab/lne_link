@@ -14,6 +14,7 @@ LNE hub provides feature navigation, firmware flashing, device configuration, an
 #### Keyboards
 * VISTA65 Dual-Mode
 * MeowTool
+* EVIL Pad
 
 #### Accessories
 * OLED
