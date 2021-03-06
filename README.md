@@ -34,11 +34,11 @@ LINK currently support the following features:
 * Cloud Sync (Planned)
 
 ### Releases
-* [Releases on GitHub](https://github.com/ln-org/lne_hub/releases)
+* [Releases on GitHub](https://github.com/ln-org/lne_link/releases)
 * [Releases on Gitee](https://gitee.com/lne-lab/lne_hub/releases)
 
 ### Feedback
-* [Create an issue](https://github.com/ln-org/lne_hub/issues) on GitHub
+* [Create an issue](https://github.com/ln-org/lne_link/issues) on GitHub
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
 * QQ Team 1107582873
 
