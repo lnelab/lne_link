@@ -1,5 +1,5 @@
-# LNE Hub
-LNE Hub Presented by LN Engineering Lab
+# LINK
+LINK Presented by LN Engineering Lab
 
 ## Overview
 
@@ -8,7 +8,7 @@ LNE Hub Presented by LN Engineering Lab
 ![Lighting](assets/images/lighting_en.png "Lighting")
 
 The aim of this project is to help us work with LNE keyboard better.
-LNE hub provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
+LINK provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
 
 ### Supported Devices
 #### Keyboards
@@ -21,11 +21,11 @@ LNE hub provides feature navigation, firmware flashing, device configuration, an
 
 ### Getting Started
 
-Please download [LNE Hub](https://github.com/ln-org/lne_hub/releases) for Windows. LNE Hub is updated monthly with new features and bug fixes.
+Please download [LINK](https://github.com/ln-org/lne_hub/releases) for Windows. LINK is updated monthly with new features and bug fixes.
 If you are interested in this project, please contact us!
 
 ### Features
-LNE Hub currently support the following features:
+LINK currently support the following features:
 * Firmware Flashing
 * Keyboard Keymap Configuring
 * Backlight Control
