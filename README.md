@@ -3,7 +3,7 @@ LINK Presented by LN Engineering Lab
 
 ## Overview
 
-![LNE Hub](assets/images/home_en.png "LNE Hub")
+![LINK](assets/images/home_en.png "LINK")
 ![Keymap](assets/images/keymap_en.png "Keymap")
 ![Lighting](assets/images/lighting_en.png "Lighting")
 
@@ -12,16 +12,17 @@ LINK provides feature navigation, firmware flashing, device configuration, and l
 
 ### Supported Devices
 #### Keyboards
-* VISTA65 Dual-Mode
-* MeowTool
+* SiRius Uni660
+* SiRius MeowTool
 * EVIL Pad
+* VISTA65 Dual-Mode
 
 #### Accessories
 * OLED
 
 ### Getting Started
 
-Please download [LINK](https://github.com/ln-org/lne_hub/releases) for Windows. LINK is updated monthly with new features and bug fixes.
+Please download [LINK](https://github.com/ln-org/lne_link/releases) for Windows. LINK is updated monthly with new features and bug fixes.
 If you are interested in this project, please contact us!
 
 ### Features
@@ -35,7 +36,7 @@ LINK currently support the following features:
 
 ### Releases
 * [Releases on GitHub](https://github.com/ln-org/lne_link/releases)
-* [Releases on Gitee](https://gitee.com/lne-lab/lne_hub/releases)
+* [Releases on Gitee](https://gitee.com/lne-lab/lne_link/releases)
 
 ### Feedback
 * [Create an issue](https://github.com/ln-org/lne_link/issues) on GitHub
