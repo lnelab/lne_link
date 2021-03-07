@@ -15,7 +15,7 @@ LINK provides feature navigation, firmware flashing, device configuration, and l
 * SiRius Uni660
 * SiRius MeowTool
 * EVIL Pad
-* VISTA65 Dual-Mode
+* ALF VISTA65 Dual-Mode
 
 #### Accessories
 * OLED
