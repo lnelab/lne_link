@@ -31,7 +31,7 @@ LINK currently support the following features:
 * Keyboard Keymap Configuring
 * Backlight Control
 * RGB Light Control
-* Macro (Planned)
+* Macro
 * Cloud Sync (Planned)
 
 ### Releases
