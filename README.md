@@ -14,8 +14,10 @@ LINK provides feature navigation, firmware flashing, device configuration, and l
 #### Keyboards
 * SiRius Uni660
 * SiRius MeowTool
+* SiRius Linkpad
 * EVIL Pad
 * ALF VISTA65 Dual-Mode
+* Naradin EXAO
 
 #### Accessories
 * OLED
