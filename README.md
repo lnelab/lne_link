@@ -35,6 +35,7 @@ LINK currently support the following features:
 * Backlight Control
 * RGB Light Control
 * Macro
+* Bluetooth Control
 * Cloud Sync (Planned)
 
 ### Releases
