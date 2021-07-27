@@ -16,6 +16,7 @@ LINK provides feature navigation, firmware flashing, device configuration, and l
 * SiRius MeowTool
 * SiRius Linkpad
 * EVIL Pad
+* KBDfans DZ60RGB ANSI
 * ALF VISTA65 Dual-Mode
 * Naradin EXAO
 
