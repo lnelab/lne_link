@@ -12,7 +12,7 @@ LINK provides feature navigation, firmware flashing, device configuration, and l
 
 ### Getting Started
 
-Please download [LINK](https://github.com/ln-org/lne_link/releases) for Windows. LINK is updated monthly with new features and bug fixes.
+Please download [LINK](https://github.com/ln-org/lne_link/releases) for Windows & Mac. LINK is updated monthly with new features and bug fixes.
 If you are interested in this project, please contact us!
 
 ### Features
