@@ -10,15 +10,15 @@ LINK Presented by LN Engineering Lab
 The aim of this project is to help us work with LNE keyboard better.
 LINK provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
 
-### Supported Devices
-#### Keyboards
-* SiRius Uni660
-* SiRius MeowTool
-* SiRius Linkpad
-* EVIL Pad
-* KBDfans DZ60RGB ANSI
-* ALF VISTA65 Dual-Mode
-* Naradin EXAO
+### Partners
+* SiRius
+* ALF
+* Atlantis
+* Basic I/O Instruments
+* EVIL
+* KBDfans
+* LeLeLab
+* Naradin
 
 #### Accessories
 * OLED
