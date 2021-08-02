@@ -11,6 +11,7 @@ The aim of this project is to help us work with LNE keyboard better.
 LINK provides feature navigation, firmware flashing, device configuration, and lightweight integration with existing tools.
 
 ### Partners
+We have cooperated with the following partners, and look forward to more partners:
 * SiRius
 * ALF
 * Atlantis
