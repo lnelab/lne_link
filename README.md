@@ -30,7 +30,7 @@ LINK currently support the following features:
 * [Releases on Gitee](https://gitee.com/lne-lab/lne_link/releases)
 
 ### Partners
-We have cooperated with the following partners, and look forward to more partners:
+We have cooperated with the following organizations, and look forward to more partners:
 * SiRius
 * ALF
 * Atlantis
