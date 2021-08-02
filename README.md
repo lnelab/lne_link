@@ -21,9 +21,6 @@ We have cooperated with the following partners, and look forward to more partner
 * LeLeLab
 * Naradin
 
-#### Accessories
-* OLED
-
 ### Getting Started
 
 Please download [LINK](https://github.com/ln-org/lne_link/releases) for Windows. LINK is updated monthly with new features and bug fixes.
