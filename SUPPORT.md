@@ -1,6 +1,6 @@
 # Support
 
-#### Keyboards
+#### Supported Keyboards
 * SiRius Uni660
 * SiRius MeowTool
 * SiRius Linkpad
