@@ -45,7 +45,7 @@ Please find the [Support List](SUPPORT.md) to check the supported devices.
 ### Feedback
 * [Create an issue](https://github.com/ln-org/lne_link/issues) on GitHub
 * [Gitee](https://gitee.com/lne-lab) https://gitee.com/lne-lab
-* QQ Team 1107582873
+* QQ Group 1107582873
 
 ## License
 Copyright (c) LNE Lab. All rights reserved.
