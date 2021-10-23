@@ -18,10 +18,10 @@ If you are interested in this project, please contact us!
 ### Features
 LINK currently support the following features:
 * Firmware Flashing
-* Keyboard Keymap Configuring
+* Keyboard Keymap Edit
 * Backlight Control
 * RGB Light Control
-* Macro
+* Macro Edit
 * Bluetooth Control
 * Cloud Sync (Planned)
 
