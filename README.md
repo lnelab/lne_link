@@ -35,6 +35,8 @@ We have cooperated with the following organizations, and look forward to more pa
 * ALF
 * Atlantis
 * Basic I/O Instruments
+* EMOTOYS
+* Exclusive
 * EVIL
 * KBDfans
 * LeLeLab
