@@ -38,6 +38,7 @@ We have cooperated with the following organizations, and look forward to more pa
 * EMOTOYS
 * Exclusive
 * EVIL
+* HalGeek
 * KBDfans
 * LeLeLab
 * Naradin
