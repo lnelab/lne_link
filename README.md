@@ -42,6 +42,7 @@ We have cooperated with the following organizations, and look forward to more pa
 * KBDfans
 * LeLeLab
 * Naradin
+* Percent
 
 Please find the [Support List](SUPPORT.md) to check the supported devices.
 
