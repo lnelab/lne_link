@@ -24,7 +24,6 @@ LINK currently support the following features:
 * Macro Edit
 * Bluetooth Control
 * Keyboard Testing
-* Toolbox
 * Cloud Sync (Planned)
 
 ### Releases
