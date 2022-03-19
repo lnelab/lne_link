@@ -23,6 +23,8 @@ LINK currently support the following features:
 * RGB Light Control
 * Macro Edit
 * Bluetooth Control
+* Keyboard Testing
+* Toolbox
 * Cloud Sync (Planned)
 
 ### Releases
@@ -35,6 +37,7 @@ We have cooperated with the following organizations, and look forward to more pa
 * ALF
 * Atlantis
 * Basic I/O Instruments
+* CASTLE BRAVO
 * EMOTOYS
 * Exclusive
 * EVIL
@@ -42,6 +45,7 @@ We have cooperated with the following organizations, and look forward to more pa
 * KBDfans
 * LeLeLab
 * Naradin
+* Nriya
 * Percent
 
 Please find the [Support List](SUPPORT.md) to check the supported devices.
