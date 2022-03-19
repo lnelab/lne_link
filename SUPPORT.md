@@ -8,11 +8,19 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v1.3.9
+* Add new keyboards: Ursa Major, Meowtool mini, iF, Luna, F60, G60 BLE 
+* Rename Media keycodes as System and add more consumer keycodes.
+* Optimize keymap options.
+* Add new language Korean.
+
+Created Date: 3/19/2022
+
 ### v1.3.8
-* Add new keyboard Trio-65
-* Optimize keyboard home page
-* Add new function: Keyboard Tester
-* Optimize user experience
+* Add new keyboard Trio-65.
+* Optimize keyboard home page.
+* Add new function: Keyboard Tester.
+* Optimize user experience.
 
 Created Date: 1/24/2022
 
