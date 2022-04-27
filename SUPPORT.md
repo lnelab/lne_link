@@ -8,6 +8,11 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v1.3.10
+* Add new keyboards: Kamilia, CA66
+* Add new language: 繁體中文
+* Update UI.
+
 ### v1.3.9
 * Add new keyboards: Ursa Major, Meowtool mini, iF, Luna, F60, G60 BLE 
 * Rename Media keycodes as System and add more consumer keycodes.
