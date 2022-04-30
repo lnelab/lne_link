@@ -32,7 +32,7 @@ LINK currently support the following features:
 
 ### Partners
 We have cooperated with the following organizations, and look forward to more partners:
-* SiRius
+* SIRIUS
 * ALF
 * Atlantis
 * Basic I/O Instruments
@@ -46,6 +46,7 @@ We have cooperated with the following organizations, and look forward to more pa
 * Naradin
 * Nriya
 * Percent
+* Play Keyboard
 
 Please find the [Support List](SUPPORT.md) to check the supported devices.
 
