@@ -36,13 +36,11 @@ We have cooperated with the following organizations, and look forward to more pa
 * ALF
 * Atlantis
 * Basic I/O Instruments
-* CASTLE BRAVO
-* EMOTOYS
 * Exclusive
 * EVIL
 * HalGeek
 * KBDfans
-* LeLeLab
+* Melfice
 * Naradin
 * Nriya
 * Percent
