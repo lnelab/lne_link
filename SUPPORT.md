@@ -8,6 +8,11 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v1.3.11
+* Add new keyboards: ML75
+* Update icon for macOS.
+* Update searching UI.
+
 ### v1.3.10
 * Add new keyboards: Kamilia, CA66
 * Add new language: 繁體中文
