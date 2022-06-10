@@ -44,6 +44,7 @@ We have cooperated with the following organizations, and look forward to more pa
 * Naradin
 * Nriya
 * Percent
+* Pixelspace
 * Play Keyboard
 
 Please find the [Support List](SUPPORT.md) to check the supported devices.
