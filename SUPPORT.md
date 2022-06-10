@@ -8,6 +8,10 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v1.3.12
+* Add new keyboards: CAPSULE65
+* Add audio keycodes.
+
 ### v1.3.11
 * Add new keyboards: ML75
 * Update icon for macOS.
