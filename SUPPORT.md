@@ -8,6 +8,13 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v1.3.13
+* Add new keyboards: Manta
+* Add keycoder Helper Toast, plan to add more comment for advanced keycodes.
+* Update style of basic keycodes.
+* Add new feature: Split Controller
+* Adjust UI & Layout.
+
 ### v1.3.12
 * Add new keyboards: CAPSULE65
 * Add audio keycodes.
