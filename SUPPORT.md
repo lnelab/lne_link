@@ -8,6 +8,9 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v1.3.14
+* Add new keyboards: Luna-75
+
 ### v1.3.13
 * Add new keyboards: Manta
 * Add keycoder Helper Toast, plan to add more comment for advanced keycodes.
