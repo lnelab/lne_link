@@ -15,7 +15,7 @@ The LNE team is excited to announce the release of LINK 2.0.0!
 
 We redesigned the core logic of LINK and added a new feature named <b>Gallery</b>. 
 
-In Gallery, you can find all the supported keyboards, and add the preferred keyboard into your collections. LINK will automaticly recognize your collections with out upgrading the client. 
+In Gallery, you can find all the supported keyboards, and add the preferred keyboard into your collections. LINK will automaticly recognize your collections without upgrading the client. 
 
 In short, LINK now supports two ways to recognize keyboards: Defaults & Collections.
 
