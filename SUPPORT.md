@@ -19,11 +19,12 @@ In Gallery, you can find all the supported keyboards, and add the preferred keyb
 
 In short, LINK now supports two ways to recognize keyboards: Defaults & Collections.
 
-
 #### Common Changes
 * Added Rapid DFU Tool.
-* Updated UI & Layout.
+* Updated UI & layout.
+* Updated icon & font.
 * Updated page of Settings.
+* Added Help button.
 
 ### v1.3.14
 * Add new keyboards: Luna-75
