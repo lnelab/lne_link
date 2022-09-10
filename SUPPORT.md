@@ -8,6 +8,23 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v2.0.0
+The LNE team is excited to announce the release of LINK 2.0.0! 
+#### Breaking Changes
+* Added new feature: <b>Gallery</b>.
+
+We redesigned the core logic of LINK and added a new feature named <b>Gallery</b>. 
+
+In Gallery, you can find all the supported keyboards, and add the preferred keyboard into your collections. LINK will automaticly recognize your collections with out upgrading the client. 
+
+In short, LINK now supports two ways to recognize keyboards: Defaults & Collections.
+
+
+#### Common Changes
+* Added Rapid DFU Tool.
+* Updated UI & Layout.
+* Updated page of Settings.
+
 ### v1.3.14
 * Add new keyboards: Luna-75
 
