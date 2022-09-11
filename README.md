@@ -25,7 +25,7 @@ LINK currently support the following features:
 * Bluetooth
 * Split
 * Keyboard Testing
-* Cloud Sync (Planned)
+* Gallery
 
 ### Releases
 * [Releases on GitHub](https://github.com/ln-org/lne_link/releases)
