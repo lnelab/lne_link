@@ -8,6 +8,13 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v2.0.1
+#### Common Changes
+* Restructure of application configuration.
+* Redesigned settings bar.
+* Added new feature: Keymap Configuration.
+* Fixed bugs.
+
 ### v2.0.0
 The LNE team is excited to announce the release of LINK 2.0.0! 
 #### Breaking Changes
