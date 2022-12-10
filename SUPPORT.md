@@ -8,6 +8,16 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v2.1.0
+#### Breaking Changes
+Completely Redesigned Macro module. 
+Now the macro is resolved into continuous actions, we can directly edit an specific action in the selected macro.
+
+#### Common Changes
+* Redesigned layer selection.
+* UI adjustment.
+* Fixed bugs.
+
 ### v2.0.1
 #### Common Changes
 * Restructure of application configuration.
