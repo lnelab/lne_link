@@ -8,6 +8,11 @@ https://www.lnelab.com/docs/support/supported-devices
 
 
 ## Release Notes
+### v2.1.1
+#### Common Changes
+* Optimized Macro module.
+* Fixed bugs.
+
 ### v2.1.0
 #### Breaking Changes
 Completely Redesigned Macro module. 
