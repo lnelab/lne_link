@@ -1,3 +1,7 @@
+# Deprecated
+This project is now deprecated. We recommend using [LINK+](https://github.com/lnelab/link-plus) instead. 
+LINK+ is the successor to LINK. It is a completely restructured and brand-new work based on LINK.
+
 # LINK
 LINK Presented by LN Engineering Lab
 
